@@ -1,3 +1,4 @@
+
 import socket
 import struct
 import codecs
@@ -24,44 +25,44 @@ Pacotes = [
 
 
 referers = [
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR',
-     'Your_Server_Bypassed_By_XXBR'
-     'Your_Server_Bypassed_By_XXBR']
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX',
+     'Your_Server_Bypassed_By_ZIELX'
+     'Your_Server_Bypassed_By_ZIELX']
      
 
 os.system("clear")
 print ("\033[37m                      ╔══════════════════════════════════════╗")
-print ("\033[37m                      ║\033[33m ╦  ╔═╗╦ ╦╦  ╦╔╦╗\033[32m  ╔═╗╔╦╗╔╦╗╔═╗╔═╗╦╔═ \033[37m║")
-print ("\033[37m                      ║\033[33m ║  ╠═╣╚╦╝║  ║ ║ \033[32m  ╠═╣ ║  ║ ╠═╣║  ╠╩╗ \033[37m║")
-print ("\033[37m                      ║\033[33m ╩═╝╩ ╩ ╩ ╩═╝╩ ╩ \033[32m  ╩ ╩ ╩  ╩ ╩ ╩╚═╝╩ ╩ \033[37m║")
+print ("\033[37m                      ║\033[91m ╔═╗╦╔═╗╦  ═╗ ╦ \033[92m  ╔═╗╔╦╗╔╦╗╔═╗╔═╗╦╔═ \033[37m║")
+print ("\033[37m                      ║\033[91m ╔═╝║║╣ ║  ╔╩╦╝ \033[92m  ╠═╣ ║  ║ ╠═╣║  ╠╩╗ \033[37m║")
+print ("\033[37m                      ║\033[91m ╚═╝╩╚═╝╩═╝╩ ╚═ \033[92m  ╩ ╩ ╩  ╩ ╩ ╩╚═╝╩ ╩ \033[37m║")
 print ("\033[37m                      ╚══════════════════════════════════════╝")
-print ("\033[37m                          ║\033[31m      LAYLIT ATTACK RUN        \033[37m║")
+print ("\033[37m                          ║\033[31m     ZIELX ATTACK RUN        \033[37m║")
 print ("\033[37m                       ╔════════════════════════════════════╗")                                   
 print ("\033[37m                       ║\033[33m   IP TARGET    \033[37m║   \033[32m PORT TARGET    \033[37m║")
 print ("\033[37m                       ║ ══════════════════════════════════ ║")
-print ("\033[37m                       ║      \033[31m   TOOLS BY XXBR/LAYLIT       \033[37m║")
+print ("\033[37m                       ║      \033[31m   TOOLS BY ZIELX            \033[37m║")
 print ("\033[37m                       ╚════════════════════════════════════╝")
 
 class MyThread(threading.Thread):
